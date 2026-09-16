@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Stuff I put
 ---
+
+Content lol
